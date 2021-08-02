@@ -1,0 +1,13 @@
+.mainPage{
+  text-align: center;
+  margin-top: 30px;
+
+  &_spin {
+    margin-top: 50px !important;
+  }
+
+  &_list{
+    margin-top: 40px !important;
+    width: 800px;
+  }
+}

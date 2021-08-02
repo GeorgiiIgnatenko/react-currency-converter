@@ -1,0 +1,26 @@
+.mainConverter{
+  width: 800px;
+
+  &_Input{
+    width: 80px !important;
+  }
+
+  &_Select{
+    width: 220px !important;
+    margin-left: 25px !important;
+  }
+
+  &_Swap{
+    margin-left: 25px;
+  }
+
+  &_Btn{
+    margin-top: 10px;
+    width: 100px !important;
+  }
+
+  &_Output{
+    width: 80px !important;
+    margin-left: 25px !important;
+  }
+}
